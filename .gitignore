@@ -1,0 +1,10 @@
+.DS_Store
+config/development.config.php
+vendor
+vendor/bin
+composer.lock
+composer.phar
+/vendor
+clover.xml
+coveralls-upload.json
+phpunit.xml
