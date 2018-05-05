@@ -2,7 +2,7 @@
     "name": "tony133/zend-expressive3-api-rest",
     "description": "Simple Example Api Rest Middleware with Zend-Expressive 3",
     "type": "project",
-    "homepage": "https://github.com/tony133/zend-expressive3-apirest",
+    "homepage": "https://github.com/tony133/Zend-Expressive3-ApiRest",
     "license": "MIT",
     "keywords": [
         "skeleton",
