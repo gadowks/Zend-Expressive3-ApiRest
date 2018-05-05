@@ -1,4 +1,7 @@
 # Zend-Expressive3-ApiRest
+
+[![Build Status](https://travis-ci.org/Tony133/Zend-Expressive3-ApiRest.svg?branch=master)](https://travis-ci.org/Tony133/Zend-Expressive3-ApiRest)
+
 Simple Example Api Rest Middleware with Zend-Expressive 3
 
 ## Install with Composer
