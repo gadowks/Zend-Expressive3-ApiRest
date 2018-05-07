@@ -82,7 +82,7 @@ class BookHandler implements RequestHandlerInterface
 
         if ($id === null) {
             throw Exception\RuntimeException::create(
-                'Ops, something went wrong. Please contact the administrator'
+                'Ops, something went wrong.'
             );
         }
 
